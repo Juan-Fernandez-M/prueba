@@ -1,0 +1,24 @@
+[
+    {
+        "name": "black hoodie",
+        "price": 120,
+        "description": "Overzise",
+        "image": "img-mackbook.jpg"
+    },
+    {
+        "name": "T-shirt",
+        "price": 120,
+        "description": "white",
+        "image": "img-mackbook2.jpg"
+    },
+    {
+        "name": "Shoes",
+        "price": 170,
+        "description": "Black and White jordans",
+        "image": "img-mackbook2.jpg"
+    },
+    {
+        "name": "landscape",
+        "price": "15"
+    }
+]
